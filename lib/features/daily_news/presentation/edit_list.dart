@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class ToDolistView extends StatelessWidget {
-  const ToDolistView({super.key});
+class EditlistView extends StatelessWidget {
+  const EditlistView({super.key});
 
   @override
   Widget build(BuildContext context) {
